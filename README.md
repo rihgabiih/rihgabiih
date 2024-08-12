@@ -1,9 +1,19 @@
-Boas vindas ao meu perfil 💙💙
+BOAS VINDAS AO MEU PERFIL💙💙
+
 Meu nome é Rihanna Gabriella
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+00001118411213sp@al.educacao.sp.gov.br
+
+@rihgabiih
+
 
 
 <!--
